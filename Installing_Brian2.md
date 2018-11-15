@@ -35,7 +35,9 @@ If print nothing, the installation is successfull.
 ### (2)Use the brian2 in Spyder
 Now, you should recreate a Spyder terminal for `brianenv`.<br>
 * Open the `Anaconda navigator`. Choose `Environments`, here list the environments you created.
-* Choose `brianenv`, click the bar showing 'Installed' or something, from which we choose `all`. Find `Spyder` and choose it, then you can <br>
-the `Apply` button in the right-bottom side to install the `Spyder(brianenv)`.
+![](https://github.com/HardworkingChris/Brian2_Learning/raw/master/install1.png)  
+* Choose `brianenv`, click the bar showing 'Installed' or something, from which we choose `all`. Find `Spyder` and choose it, then you can click the `Apply` button in the right-bottom side to install the `Spyder(brianenv)`.
+![](https://github.com/HardworkingChris/Brian2_Learning/raw/master/install2.png) 
+![](https://github.com/HardworkingChris/Brian2_Learning/raw/master/install3.png) 
 * From the start menu, you will see the new spyder named `Spyder(brianenv)`, click it.<br>
 Then everthing is OK!.

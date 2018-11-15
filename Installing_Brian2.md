@@ -5,7 +5,7 @@ this things like configuring environments etc. So I will only record how I insta
 
 Simply put that there are only two steps: 
 1. Set up Anaconda.
-2. Install the Brain2 through conda.
+2. Install the Brian2 through conda.
 
 ## 1.Set up Anaconda.<br>
 In this part, there is no problem generally, one point you should know that do not install it in a CHinese directory.(不要在中文路径下安装)

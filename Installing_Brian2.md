@@ -9,7 +9,7 @@ Simply put that there are only two steps:
 **The more details will be seen in the** [Brian2's installation guide.](https://brian2.readthedocs.io/en/stable/introduction/install.html)
 ## 1.Set up Anaconda.<br>
 Please refer to the [installation guide](https://docs.anaconda.com/anaconda/install/).
-In this part, there is no problem generally, one point you should know that do not install it in a CHinese directory.(不要在中文路径下安装)
+In this part, there is no problem generally, one point you should know that do not install it in a Chinese directory.(不要在中文路径下安装)
 
 ## 2. Install the Brain2 through conda.
 At first, I install the Brian2 in the default `base` environment, however, it could not work when I test it in `Spyder` or `Anaconda prompt`.<br>

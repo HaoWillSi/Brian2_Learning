@@ -1,13 +1,14 @@
 Record the experience I install the Brian2
 ===
-I install Brian2 with Anaconda. At first, it was a really hard work for me that I failed for times. To be frankly, I am not good at doing
-this things like configuring environments etc. So I will only record how I install it sucessfully. 
+I install Brian2 with Anaconda in Windows 10(64 bit). At first, it was a really hard work for me that I failed for times. To be frankly, I am not good at doing this things like configuring environments etc. So I will only record how I install it sucessfully. 
 
 Simply put that there are only two steps: 
 1. Set up Anaconda.
-2. Install the Brian2 through conda.
+2. Install the Brian2 through conda.<br>
 
+**The more details will be seen in the** [Brian2's installation guide.](https://brian2.readthedocs.io/en/stable/introduction/install.html)
 ## 1.Set up Anaconda.<br>
+Please refer to the [installation guide](https://docs.anaconda.com/anaconda/install/).
 In this part, there is no problem generally, one point you should know that do not install it in a CHinese directory.(不要在中文路径下安装)
 
 ## 2. Install the Brain2 through conda.
@@ -40,4 +41,5 @@ Now, you should recreate a Spyder terminal for `brianenv`.<br>
 ![](https://github.com/HardworkingChris/Brian2_Learning/raw/master/install2.png) 
 ![](https://github.com/HardworkingChris/Brian2_Learning/raw/master/install3.png) 
 * From the start menu, you will see the new spyder named `Spyder(brianenv)`, click it.<br>
+
 Then everthing is OK!.

@@ -20,7 +20,7 @@ for m in range(0,n_layer-1):
 net = Network(collect())
 net.add(group,net_sub, con)    # Adding objects to the simulation
 ```
-After consulting on the Brian team, I learned a new and efficient way to creat a feedforward network. From . Through the example code from Diesmann et al. (1999),
+After consulting on the Brian team, I learned a new and efficient way to creat a feedforward network. From . Through the example code from [Diesmann et al. (1999). Nature.](https://brian2.readthedocs.io/en/stable/examples/frompapers.Diesmann_et_al_1999.html),
 `S.connect(j='k for k in range((int(i/group_size)+1)*group_size, (int(i/group_size)+2)*group_size) ''if i<N_pre-group_size')`, we just need to replace 
 `range()` with `sample(size,size,p=0.1) ` . Diesmann's synfire chain is a feedforward network with all-to-all connections between neighbouring layers, while the model 
 in Sentao Wang's paper is a random connecting feedforward network.
